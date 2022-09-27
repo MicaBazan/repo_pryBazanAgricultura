@@ -1,0 +1,5 @@
+1 Soja
+2 Maíz
+3 Sorgo
+4 Maní
+5 Girasol

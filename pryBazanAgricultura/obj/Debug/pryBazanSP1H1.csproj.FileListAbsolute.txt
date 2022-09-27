@@ -1,0 +1,15 @@
+C:\Users\marti\Desktop\SP1\bin\Debug\pryBazanSP1H1.exe.config
+C:\Users\marti\Desktop\SP1\bin\Debug\pryBazanSP1H1.exe
+C:\Users\marti\Desktop\SP1\bin\Debug\pryBazanSP1H1.pdb
+C:\Users\marti\Desktop\SP1\obj\Debug\pryBazanSP1H1.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\SP1\obj\Debug\pryBazanSP1H1.csproj.SuggestedBindingRedirects.cache
+C:\Users\marti\Desktop\SP1\obj\Debug\pryBazanSP1H1.frmConsultas.resources
+C:\Users\marti\Desktop\SP1\obj\Debug\pryBazanSP1H1.frmCultivos.resources
+C:\Users\marti\Desktop\SP1\obj\Debug\pryBazanSP1H1.frmLocalidad.resources
+C:\Users\marti\Desktop\SP1\obj\Debug\pryBazanSP1H1.frmPrincipal.resources
+C:\Users\marti\Desktop\SP1\obj\Debug\pryBazanSP1H1.frmProduccion.resources
+C:\Users\marti\Desktop\SP1\obj\Debug\pryBazanSP1H1.Properties.Resources.resources
+C:\Users\marti\Desktop\SP1\obj\Debug\pryBazanSP1H1.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\SP1\obj\Debug\pryBazanSP1H1.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SP1\obj\Debug\pryBazanSP1H1.exe
+C:\Users\marti\Desktop\SP1\obj\Debug\pryBazanSP1H1.pdb
